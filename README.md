@@ -9,16 +9,29 @@ Exploratory Data Analysis (EDA) is performed on the E-Commerce data obtained fro
 
 2.The customer with the highest money spent on purchases comes from Netherlands 
 
-3.The company receives the highest number of orders from customers in the UK (since it is a UK-based company). Therefore, the TOP 5 countries (including UK) that place the highest number of orders are as below: United Kingdom Germany France Ireland (EIRE) Spain 
+3.The company receives the highest number of orders from customers in the UK (since it is a UK-based company). Therefore, the TOP 5 countries (including UK) that place the highest number of orders are as below:
+United Kingdom 
+Germany 
+France 
+Ireland (EIRE)
+Spain 
 
-4.As the company receives the highest number of orders from customers in the UK (since it is a UK-based company), customers in the UK spend the most on their purchases. Therefore, the TOP 5 countries (including UK) that spend the most money on purchases are as below: United Kingdom Netherlands Ireland (EIRE) Germany France.
+4.As the company receives the highest number of orders from customers in the UK (since it is a UK-based company), customers in the UK spend the most on their purchases. Therefore, the TOP 5 countries (including UK) that spend the most money on purchases are as below: 
+United Kingdom 
+Netherlands 
+Ireland (EIRE) 
+Germany 
+France.
 
-5.November 2011 has the highest sales The month with the lowest sales is undetermined as the dataset consists of transactions until 9th December 2011 in December.
+# 5. November 2011 has the highest sales 
+      The month with the lowest sales is undetermined as the dataset consists of transactions until 9th December 2011 in December.
 
 6.There are no transactions on Saturday between 1st Dec 2010 - 9th Dec 2011
 
 7.The number of orders received by the company tends to increases from Monday to Thursday and decrese afterward.
 
-8.The company receives the highest number of orders at 12:00pm Possibly most customers made purchases during lunch hour between 12:00pm - 2:00pm.
+8.The company receives the highest number of orders at 12:00pm 
+        Possibly most customers made purchases during lunch hour between 12:00pm - 2:00pm.
 
-9.The company tends to give out FREE items for purchases occasionally each month However, it is not clear what factors contribute to giving out the FREE items to the particular customers
+9.The company tends to give out FREE items for purchases occasionally each month. 
+        However, it is not clear what factors contribute to giving out the FREE items to the particular customers

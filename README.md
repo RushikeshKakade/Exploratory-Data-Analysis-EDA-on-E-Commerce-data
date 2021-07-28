@@ -23,7 +23,7 @@ Ireland (EIRE)
 Germany 
 France.
 
-# 5. November 2011 has the highest sales 
+5. November 2011 has the highest sales 
       The month with the lowest sales is undetermined as the dataset consists of transactions until 9th December 2011 in December.
 
 6.There are no transactions on Saturday between 1st Dec 2010 - 9th Dec 2011

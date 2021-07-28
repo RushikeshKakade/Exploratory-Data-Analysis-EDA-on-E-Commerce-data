@@ -10,20 +10,20 @@ Exploratory Data Analysis (EDA) is performed on the E-Commerce data obtained fro
 2.The customer with the highest money spent on purchases comes from Netherlands 
 
 3.The company receives the highest number of orders from customers in the UK (since it is a UK-based company). Therefore, the TOP 5 countries (including UK) that place the highest number of orders are as below:
-United Kingdom 
-Germany 
-France 
-Ireland (EIRE)
-Spain 
+  United Kingdom 
+  Germany 
+  France 
+  Ireland (EIRE)
+  Spain 
 
 4.As the company receives the highest number of orders from customers in the UK (since it is a UK-based company), customers in the UK spend the most on their purchases. Therefore, the TOP 5 countries (including UK) that spend the most money on purchases are as below: 
-United Kingdom 
-Netherlands 
-Ireland (EIRE) 
-Germany 
-France.
+  United Kingdom 
+  Netherlands 
+  Ireland (EIRE) 
+  Germany 
+  France.
 
-5. November 2011 has the highest sales 
+5.November 2011 has the highest sales 
       The month with the lowest sales is undetermined as the dataset consists of transactions until 9th December 2011 in December.
 
 6.There are no transactions on Saturday between 1st Dec 2010 - 9th Dec 2011
